@@ -22,13 +22,15 @@ The dataset contains rice leaf images categorized into three disease classes.
 
 The dataset was processed and prepared for model training, validation, and testing.
 
-### Dataset Classes
+## 📊 Dataset
 
-| Disease | Type |
-|---|---|
-| Brown Spot | Rice Leaf Disease |
-| Bacterial Blight | Rice Leaf Disease |
-| Leaf Smut | Rice Leaf Disease |
+The dataset contains rice leaf images belonging to three disease classes:
+
+- Brown Spot
+- Bacterial Blight
+- Leaf Smut
+
+Due to the large size of the image dataset, the complete dataset is not included in this repository.
 
 ## 🧠 Methodology
 
