@@ -34,7 +34,7 @@ The dataset was processed and prepared for model training, validation, and testi
 
 The project uses a Convolutional Neural Network (CNN) for image classification.
 
-The general workflow is:
+The general workflow is :
 
 ```text
 Rice Leaf Images
